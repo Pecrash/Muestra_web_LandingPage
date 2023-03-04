@@ -27,8 +27,8 @@
                 <a href="" class="secPrincipal__containerInfo-btn">Go to your website</a>
 
                 <article class="secPrincipal__containerInfo-networks">
-                    <a href=""><img src="./assets/facebook.svg" alt=""></a>
-                    <a href=""><img src="./assets/instagram.svg" alt=""></a>
+                    <a href="https://www.facebook.com/profile.php?id=100090796002084" target="_blank"><img src="./assets/facebook.svg" alt=""></a>
+                    <a href="https://instagram.com/pecrash_dev?igshid=YmMyMTA2M2Y=" target="_blank"><img src="./assets/instagram.svg" alt=""></a>
                     <a href=""><img src="./assets/twitter.svg" alt=""></a>
                 </article>
             </section>
@@ -49,7 +49,7 @@
             <p>*Este es un website de muestra, sin embargo no dudes en llenar el formulario para contactarte conmigo,
                 el mensaje llegará a mi correo real*</p>
 
-            <form class="slider__section_form" id="contacto" action="https://formspree.io/f/mayzekjk" method="post">
+            <form class="slider__section_form" id="contacto" action="https://formspree.io/f/mayzekjk" method="POST">
                 <input type="text" class="slider__section_form-box" name="name" required>
                 <label for="" class="slider__section_form-label">
                     <span>Tu Nombre</span>
@@ -73,11 +73,6 @@
                 <div class="slider__section_form-submit">
                     <input type="submit" class="slider__section_form-submit-btn" value="Enviar">
                 </div>
-
-
-                <!-- <input type="hidden" name="_next" value="https://muestra-weblandingpage-production.up.railway.app/">
-                <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_template" value="box"> -->
             </form>
         </section>
 
