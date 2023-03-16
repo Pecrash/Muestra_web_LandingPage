@@ -29,7 +29,7 @@
                 <article class="secPrincipal__containerInfo-networks">
                     <a href="https://www.facebook.com/profile.php?id=100090796002084" target="_blank"><img src="./assets/facebook.svg" alt=""></a>
                     <a href="https://www.instagram.com/pecrash_dev/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="./assets/instagram.svg" alt=""></a>
-                    <a href=""><img src="./assets/twitter.svg" alt=""></a>
+                    <a href="https://twitter.com/PecrashDev" target="_blank"><img src="./assets/twitter.svg" alt=""></a>
                 </article>
             </section>
             <section class="secPrincipal__containerImg">
